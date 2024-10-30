@@ -12,7 +12,7 @@ USB to TTL UART Converter used (DSD TECH SH-U09C5 USB to TTL UART Converter Cabl
 
 For detailled flash instructions (flashing starts at timestamp 13:53): <br /> https://youtu.be/6aeUWPLgaqY?si=nI2Jqq2ugKuAgVmX <br />
 
-If you have issues flashing from the browser, you can use "Manual download" in ESPHome to get the binary, and then flash it using Tasmotizer. This got me moving forward on a couple that simply would not flash from the WebGUI: https://github.com/tasmota/tasmotizer
+If you have issues flashing from the browser, or simply hate using vulnerable browser with too open APIs and too much telemetry (read, spying) like Chrome and Edge you can use "Manual download" in ESPHome to get the binary, and then flash it using Tasmotizer. This got me moving forward on a couple that simply would not flash from the WebGUI: https://github.com/tasmota/tasmotizer
 
 Schematic and docs: <br /> https://github.com/techdregs/Sonoff-S31-Teardown <br />
 

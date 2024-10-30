@@ -1,4 +1,4 @@
-# Sonoff_S31
+# Sonoff S31 Smart Plug with Energy Monitoring, 15A WiFi
 
 For hardware used, see here: <br /> https://itead.cc/product/sonoff-s31/ <br />
 

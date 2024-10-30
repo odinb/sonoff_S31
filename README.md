@@ -8,7 +8,7 @@ Or as 4-pack here: <br /> https://www.amazon.com/SONOFF-Monitoring-Compatible-4P
 
 Test hooks used to flash (to avoid soldering): <br /> https://www.amazon.com/dp/B0BJ627S1X <br />
 
-USB to TTL UART Converter used: <br />  https://www.amazon.com/dp/B07WX2DSVB <br />
+USB to TTL UART Converter used (DSD TECH SH-U09C5 USB to TTL UART Converter Cable with FTDI Chip Support 5V 3.3V 2.5V 1.8V TTL), ple4ase remember to set to 3.3V: <br />  https://www.amazon.com/dp/B07WX2DSVB <br />
 
 For detailled flash instructions (flashing starts at timestamp 13:53): <br /> https://youtu.be/6aeUWPLgaqY?si=nI2Jqq2ugKuAgVmX <br />
 
